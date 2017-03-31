@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.jensjansson</groupId>
     <artifactId>dateselector</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>0.3.0</version>
     <name>dateselector</name>
     <packaging>bundle</packaging>
     <organization>
